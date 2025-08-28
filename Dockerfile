@@ -1,4 +1,4 @@
-FROM ubuntu:24.04
+FROM phusion/baseimage:noble-1.0.2
 ENV DEBIAN_FRONTEND=noninteractive
 ENV TZ=america/los_angeles
 
